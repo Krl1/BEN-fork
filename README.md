@@ -11,6 +11,7 @@ tags:
 - background
 ---
 
+# Fork of https://huggingface.co/PramaLLC/BEN
 # BEN - Background Erase Network (Beta Base Model)
 
 BEN is a deep learning model designed to automatically remove backgrounds from images, producing both a mask and a foreground image. 
